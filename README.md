@@ -53,7 +53,7 @@ keep it civil, keep it friendly, keep it open, detailed information can be found
 
 ## 🙏 Acknowledgements
 
-This project was inspired by the open [source guide](https://opensource.guide/) from GitHub.
+This project was inspired by the [open source guide](https://opensource.guide/) from GitHub.
 > Acknowledge any individuals or organizations that have contributed to the project, including libraries, frameworks, or tools that were used.
 
 ## 📧 Contact
